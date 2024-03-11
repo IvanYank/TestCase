@@ -1,6 +1,6 @@
 # TestCase
 
-import { Component, ChangeEvent } from 'react';
+```import { Component, ChangeEvent } from 'react';
 
 interface Param {
   id: number;
@@ -83,4 +83,4 @@ class ParamEditor extends Component<Props, State> {
   }
 }
 
-export default ParamEditor;
+export default ParamEditor;```
