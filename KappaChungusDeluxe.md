@@ -1,1 +1,1 @@
-KappaDeluxe
+KappaDeluxeMaximus
